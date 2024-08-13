@@ -1,0 +1,54 @@
+.Main{
+    border: 2px solid black ;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: black;
+}
+.Heading{
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    color: white;
+}
+.Display{ 
+    margin: 5px 0px 0px 0px; 
+    padding: 10px;
+    font-size: larger;
+    background-color: black;
+    color: white;
+    border: 2px solid black ;
+    border-radius: 20px;
+}
+.Buttons{
+    margin: 0px 2px;
+}
+.Row-1{
+    margin: auto;
+}
+.B1{
+    padding: 14px 18px;
+    margin: 5px;
+    border: 2px solid black ;
+    border-radius: 40px;
+    font-size: larger;
+    background-color: grey;
+}
+.B2{
+    padding: 14px 22px;
+    margin: 5px;
+    border: 2px solid black ;
+    border-radius: 40px;
+    font-size: larger;
+    background-color: rgba(35, 35, 35, 0.738);
+    color: white;
+}
+.B3{
+    padding: 14px 22px;
+    margin: 5px;
+    border: 2px solid black ;
+    border-radius: 40px;
+    font-size: larger;
+    background-color: rgba(255, 166, 0, 0.891);
+    color: white;
+}
